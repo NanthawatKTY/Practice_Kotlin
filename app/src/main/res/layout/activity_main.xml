@@ -19,7 +19,7 @@
             android:layout_centerHorizontal="true"
             android:text="@string/characterHeader"
             android:textAlignment="center"
-            android:textColor="@color/header_color"
+            android:textColor="@color/headercolor"
             android:textSize="@dimen/headersize"
             android:textStyle="bold|italic" />
 
