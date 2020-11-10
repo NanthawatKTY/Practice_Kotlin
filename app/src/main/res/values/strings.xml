@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practice Kotlin</string>
+    <string name="characterHeader">Naruto</string>
+</resources>
